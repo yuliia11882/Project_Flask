@@ -19,7 +19,7 @@ Enjoy.
 8. Python<br>
 
 ### Credits:
-ANMAR JARJEES, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College<br>
+ANMAR JARJEES, Web Development and SoftwareEngineering Instructor   of   Canadian Business College, Toronto, ON<br>
 https://startbootstrap.com/<br>
 https://www.goodreads.com/author/quotes/2192.Aristotle<br>
 https://flask.palletsprojects.com<br>
