@@ -20,3 +20,7 @@ https://startbootstrap.com/<br>
 https://www.goodreads.com/author/quotes/2192.Aristotle<br>
 https://flask.palletsprojects.com<br>
 https://plato.stanford.edu/entries/aristotle/<br>
+
+
+
+local : http://127.0.0.1:5000
