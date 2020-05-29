@@ -6,15 +6,15 @@ Ancient Greece wisdom in your pocket!
 Enjoy.
 
 ### Technologies used:
-1.HTML
-2.CSS
-3.Python
-4.Flask
-5.Bootstrap
+1.HTML<br>
+2.CSS<br>
+3.Python<br>
+4.Flask<br>
+5.Bootstrap<br>
 
 ### Credits:
-Anmar Jarjees, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College
-https://startbootstrap.com/
-https://www.goodreads.com/author/quotes/2192.Aristotle
-https://flask.palletsprojects.com
-https://plato.stanford.edu/entries/aristotle/
+Anmar Jarjees, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College<br>
+https://startbootstrap.com/<br>
+https://www.goodreads.com/author/quotes/2192.Aristotle<br>
+https://flask.palletsprojects.com<br>
+https://plato.stanford.edu/entries/aristotle/<br>
