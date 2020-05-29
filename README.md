@@ -12,7 +12,9 @@ Enjoy.
 2.CSS<br>
 3.Python<br>
 4.Flask<br>
-5.Bootstrap<br>
+5.JavaScript<br>
+6.Jinja<br>
+7.Bootstrap<br>
 
 ### Credits:
 ANMAR JARJEES, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College<br>
