@@ -25,7 +25,6 @@ https://flask.palletsprojects.com<br>
 https://plato.stanford.edu/entries/aristotle/<br>
 
 
-## Link to Website:
-
-Heroku : https://y-project-flask.herokuapp.com
+## Link 
+deployed to Heroku:     https://y-project-flask.herokuapp.com
 
