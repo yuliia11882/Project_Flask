@@ -1,8 +1,8 @@
 ## Project_Flask
 WebApp <br> using Python,Flask, Bootstrap.
 # <h1><em> WEB</em>Aristotle</h1>
-<em> WEB</em>Aristotle.Website created to share wisdom of one of the greatest minds of Ancient Greece, philosopher and polymath - ARISTOTLE.<br>
-Ancient Greece wisdom in your pocket!
+<em> WEB</em>Aristotle.Website created to share wisdom of one of the greatest minds of Ancient Greece,<br> philosopher and polymath - ARISTOTLE.<br>
+Ancient Greece wisdom in your pocket!<br>
 Enjoy.
 
 ### Technologies used:
