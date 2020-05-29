@@ -22,5 +22,5 @@ https://flask.palletsprojects.com<br>
 https://plato.stanford.edu/entries/aristotle/<br>
 
 
-### Links
-local : http://127.0.0.1:5000
+### Links:
+Local : http://127.0.0.1:5000
