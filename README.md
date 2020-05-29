@@ -8,13 +8,14 @@ Ancient Greece wisdom in your pocket!<br>
 Enjoy.
 
 ### Technologies used:
-1.HTML<br>
+1.Bootstrap<br>
 2.CSS<br>
-3.Python<br>
-4.Flask<br>
+3.Flask<br>
+4.HTML<br>
 5.JavaScript<br>
 6.Jinja<br>
-7.Bootstrap<br>
+7.JSON<br>
+8.Python<br>
 
 ### Credits:
 ANMAR JARJEES, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College<br>
