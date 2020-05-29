@@ -7,14 +7,14 @@ WebSite
 Ancient Greece wisdom in your pocket!<br>
 Enjoy.
 
-### Technologies used:
+#### Technologies used:
 1.HTML<br>
 2.CSS<br>
 3.Python<br>
 4.Flask<br>
 5.Bootstrap<br>
 
-### Credits:
+#### Credits:
 ANMAR JARJEES, Web Development and SoftwareEngineering Instructor   of   Canadian Buisness College<br>
 https://startbootstrap.com/<br>
 https://www.goodreads.com/author/quotes/2192.Aristotle<br>
@@ -22,7 +22,7 @@ https://flask.palletsprojects.com<br>
 https://plato.stanford.edu/entries/aristotle/<br>
 
 
-### Link to Website:
+## Link to Website:
 
 Heroku : https://y-project-flask.herokuapp.com
 
