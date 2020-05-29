@@ -1,7 +1,7 @@
 ## Project_Flask
 WebApp
 
-# <h1><em> WEB</em>Aristotle</h1>
+# <h1><em> ' WEB</em>Aristotle '</h1>
 
 <em> WEB</em>Aristotle.Webapp created to share wisdom of one of the greatest minds of Ancient Greece,<br> philosopher and polymath - ARISTOTLE.<br>
 Ancient Greece wisdom in your pocket!<br>
