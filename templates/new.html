@@ -1,0 +1,44 @@
+<!--we need to call base.html here-->
+<!--calling the template base.html file-->
+{% extends 'base.html' %}
+
+<!--to embed Python code into our HTML file we use Jinja templates:
+#-  {  {         to open Python expressions and         }   }    to close this expression
+#-      {  %     to open a Python statement and     %   }     to close this statement-->
+{% block title %}
+{{ title }}
+{% endblock %}
+
+
+{% block content %}
+
+<!--below is content for the home page: -->
+
+<h1> NEW </h1>
+
+
+<em>{{aristotle[0]['quotes']}}</em>
+<br>
+{% for words_ in aristotle[0]['words'] %}
+{{ words_ }}
+{% endfor %}
+<br>
+
+<hr>
+<em> {{aristotle[1]['quotes']}}</em>
+<br>
+{% for words_ in aristotle[1]['words'] %}
+{{ words_ }}
+{% endfor %}
+
+<hr>
+<em> {{ aristotle[2]['quotes']}} </em>
+<br>
+{% for words_ in aristotle[2]['words'] %}
+{{ words_ }}
+{% endfor %}
+
+
+
+<hr>
+{% endblock %}

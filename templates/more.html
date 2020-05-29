@@ -1,0 +1,39 @@
+<!--Jinja templates-->
+
+{% extends 'base.html' %}
+
+{% block title %}
+{% if title %}
+{{ title }}
+{% else %}
+More Flask Demo
+{% endif %}
+
+
+{% endblock %}
+
+{% block content %}
+
+<!--we only and JUST only keep the unique contents of this more.html page-->
+<h1>More:</h1>
+
+<ul>
+
+   <li>“Wishing to be friends is quick work, but friendship is a slow ripening fruit.”</li>
+   <hr>
+   <li>“No great mind has ever existed without a touch of madness.”</li>
+   <hr>
+   <li>“Whosoever is delighted in solitude, is either a wild beast or a god.”</li>
+   <hr>
+   <li>“The whole is greater than the sum of its parts.”</li>
+   <hr>
+   <li>“It is not enough to win a war; it is more important to organize the peace.”</li>
+   <hr>
+   <li>“The aim of art is to represent not the outward appearance of things, but their inward significance.”</li>
+   <hr>
+   <li>“I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over
+      self.”</li>
+</ul>
+
+<hr>
+{% endblock %}

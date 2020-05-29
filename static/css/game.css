@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width:1080px;
+    margin: 0 auto;
+}
+.card {
+    float: left;
+    margin: 15px;
+    height: 250px;
+    width: 150px;
+    background: rgb(19, 128, 4);
+text-align: center;
+border-radius: 5px;
+box-shadow: 20px 20px 20px rgb(138, 230, 34);
+}
+.card:hover {
+cursor: pointer;
+border: 15px solid rgb(2, 8, 4);
+}
+
+
+.card p {
+font-size: 75px;
+color:rgb(5, 1, 1);
+
+}
+

@@ -1,0 +1,58 @@
+<!--we need to call base.html here-->
+<!--calling the template base.html file-->
+{% extends 'base.html' %}
+
+<!--to embed Python code into our HTML file we use Jinja templates:
+#-  {  {         to open Python expressions and         }   }    to close this expression
+#-      {  %     to open a Python statement and     %   }     to close this statement-->
+{% block title %}
+{{ title }}
+{% endblock %}
+
+
+{% block content %}
+
+<!--below is content for the home page: -->
+
+<!-- Main Content index.html page -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-preview">
+        <a href="post.html">
+
+          <h3 class="post-subtitle">
+            “He who has overcome his fears will truly be free.”
+          </h3>
+        </a>
+        </a>
+        <p class="post-meta">Fear & Freedom
+
+      </div>
+
+      <hr>
+      <div class="post-preview">
+        <a href="post.html">
+
+          <h3 class="post-subtitle">
+            “The educated differ from the uneducated as much as the living differ from the dead.”
+          </h3>
+        </a>
+        <p class="post-meta">Education
+
+      </div>
+      <hr>
+      <div class="post-preview">
+        <a href="post.html">
+
+          <h3 class="post-subtitle">
+            “To perceive is to suffer.”
+          </h3>
+        </a>
+        <p class="post-meta">Life
+
+      </div>
+      <hr>
+
+
+      {% endblock %}
